@@ -1,0 +1,12 @@
+h1{
+ 	color: red;
+ 	text-decoration: underline;
+ }
+ img, p{
+ 	margin: auto;
+ 	color: pink;
+ 	background-color: yellow;
+ }
+ body{
+ 	background-color: yellow;
+ }
